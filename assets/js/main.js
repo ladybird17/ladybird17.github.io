@@ -192,7 +192,7 @@
   });
 
   /**
-   * Skills animation
+   * Skills animation -> 안쓰는걸로 변경함
    */
   let skilsContent = select('.skills-content');
   if (skilsContent) {
